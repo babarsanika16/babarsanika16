@@ -161,7 +161,7 @@ Completed a 60-hour on-the-job training program focused on full stack developmen
 
 **Industry Training**
 
-![Axelyne LLP](https://img.shields.io/badge/Axelyne%20LLP-Full%20Stack%20(Django)%20OJT-5B21B6?style=for-the-badge)
+![Axelyne LLP](C:\Users\babar\OneDrive\Pictures\Screenshots\Screenshot 2026-10-06 220841.png)
 
 ---
 
